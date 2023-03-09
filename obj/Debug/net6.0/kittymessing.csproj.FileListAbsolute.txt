@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\kittymessing\bin\Debug\net6.0\kittymessing.exe
+C:\Users\redigering\source\repos\kittymessing\bin\Debug\net6.0\kittymessing.deps.json
+C:\Users\redigering\source\repos\kittymessing\bin\Debug\net6.0\kittymessing.runtimeconfig.json
+C:\Users\redigering\source\repos\kittymessing\bin\Debug\net6.0\kittymessing.dll
+C:\Users\redigering\source\repos\kittymessing\bin\Debug\net6.0\kittymessing.pdb
+C:\Users\redigering\source\repos\kittymessing\obj\Debug\net6.0\kittymessing.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\kittymessing\obj\Debug\net6.0\kittymessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\kittymessing\obj\Debug\net6.0\kittymessing.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\kittymessing\obj\Debug\net6.0\kittymessing.AssemblyInfo.cs
+C:\Users\redigering\source\repos\kittymessing\obj\Debug\net6.0\kittymessing.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\kittymessing\obj\Debug\net6.0\kittymessing.dll
+C:\Users\redigering\source\repos\kittymessing\obj\Debug\net6.0\refint\kittymessing.dll
+C:\Users\redigering\source\repos\kittymessing\obj\Debug\net6.0\kittymessing.pdb
+C:\Users\redigering\source\repos\kittymessing\obj\Debug\net6.0\kittymessing.genruntimeconfig.cache
+C:\Users\redigering\source\repos\kittymessing\obj\Debug\net6.0\ref\kittymessing.dll
